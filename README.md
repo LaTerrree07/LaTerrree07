@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Earth Justin Lim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm an aspiring Web Developer from the Philippines.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
 
