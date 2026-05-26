@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Earth Justin Lim</h1>
 <h3 align="center">I am an IT Student Specializing in Web Development.</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
 - 💡 Fun fact **Curiosity led me to discover IT and now I’m exploring web development.**
 
