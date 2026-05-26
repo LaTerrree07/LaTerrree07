@@ -124,9 +124,18 @@
 
 <hr>
 
-<h3 align="left">📩 Connect with me:</h3>
+<h3 align="left">🤝 Let’s Connect:</h3>
+
 <p align="left">
-<a href="https://fb.com/la.terrree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="la.terrree" height="30" width="40" /></a>
-<a href="https://instagram.com/la.terrree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la.terrree" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/e_lim_553550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="e_lim_553550" height="30" width="40" /></a>
+  <a href="https://fb.com/la.terrree" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/la.terrree" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/e_lim_553550" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
