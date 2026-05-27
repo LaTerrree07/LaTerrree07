@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align="left">🚀 Currently Working On</h3>
+<h3 align="left">🚀 Currently Working On:</h3>
 <ul>
   <li>Learning the basics of HTML, CSS, and JavaScript</li>
   <li>Building small practice projects</li>
@@ -26,32 +26,35 @@
 
 <ul>
   <li>
-    <strong>Spin Express Laundry Management System</strong>
+    <strong>
+      <a href="https://github.com/LaTerrree07/spin-express-laundry-management-system/tree/main" target="_blank">
+        Spin Express Laundry Management System
+      </a>
+    </strong>
     <br>
     <em>Project Duration: April 2026 - May 2026</em>
     <br>
     A web-based laundry management system for managing customers, services, transactions, payments, staff, and laundry status tracking.
     <br>
     <em>Technologies Used: Laravel, PHP, MySQL, Blade, HTML, CSS, JavaScript</em>
-    <br>
-    <a href="https://github.com/LaTerrree07/spin-express-laundry-management-system/tree/main" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
-    <strong>STC Alumni Management System</strong>
+    <strong>
+      <a href="https://github.com/LaTerrree07/stc-alumni-management-system" target="_blank">
+        STC Alumni Management System
+      </a>
+    </strong>
     <br>
     <em>Project Duration: March 2026 - May 2026</em>
     <br>
     An academic alumni management system project designed for managing alumni profiles, job opportunities, events, donations, announcements, and role-based access.
     <br>
     <em>Technologies Used: Laravel, PHP, MySQL, Blade, HTML, CSS, JavaScript</em>
-    <br>
-    <a href="https://github.com/LaTerrree07/stc-alumni-management-system" target="_blank">View Project</a>
   </li>
 </ul>
-
 <hr>
 
 <h3 align="left">🛠️ Technical Skills & Tools:</h3>
