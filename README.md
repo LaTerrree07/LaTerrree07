@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm Earth Justin Lim</h1>
-<h3 align="center">I am an IT Student Specializing in Web Development.</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+  <h1>Hi there, I'm Earth Justin Lim 👋</h1>
 
-- 💡 Fun fact **Curiosity led me to discover IT and now I’m exploring web development.**
+  <h3>IT Student | Aspiring Web Developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
+  <p>
+  I am an Information Technology student from the University of Mindanao, Philippines.  
+  I am currently learning and improving my skills in web development as I work toward becoming a web developer.
+  </p>
 
-- 📫 How to reach me **e.lim.553550@umindanao.edu.ph**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+
+  <p>
+    <a href="mailto:e.lim.553550@umindanao.edu.ph">
+      <img src="https://img.shields.io/badge/Email-e.lim.553550%40umindanao.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    </a>
+  </p>
+
+</div>
 
 <hr>
 
-<h3 align="left">🚀 Currently Working On:</h3>
+<h3 align="left">🚀 What I’m Focusing On:</h3>
+
 <ul>
-  <li>Learning the basics of HTML, CSS, and JavaScript</li>
-  <li>Building small practice projects</li>
-  <li>Improving my Git and GitHub workflow</li>
+  <li>Developing my skills in frontend and backend web development</li>
+  <li>Building practical web-based systems using Laravel, PHP, MySQL, and JavaScript</li>
+  <li>Improving my GitHub workflow, documentation, and project organization</li>
+  <li>Learning how to create clean, responsive, and user-friendly interfaces</li>
 </ul>
 
 <hr>
@@ -60,45 +72,14 @@
 <h3 align="left">🛠️ Technical Skills & Tools:</h3>
 
 <p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </p>
 
 <hr>
@@ -152,19 +133,13 @@
 </ul>
 
 <hr>
-
 <h3 align="left">🤝 Let’s Connect:</h3>
 
 <p align="left">
-  <a href="https://fb.com/la.terrree" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://fb.com/la.terrree" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
-
-  <a href="https://instagram.com/la.terrree" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/e_lim_553550" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://instagram.com/la.terrree" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
