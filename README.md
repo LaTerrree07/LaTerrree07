@@ -1,36 +1,51 @@
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="35%">
 
-  <h1>Hi there, I'm Earth Justin Lim 👋</h1>
+<h2>EARTH JUSTIN LIM</h2>
 
-  <h3>IT Student | Aspiring Web Developer</h3>
+<p>
+  IT Student<br>
+  University of Mindanao<br>
+  Philippines
+</p>
 
-  <p>
-  I am an Information Technology student from the University of Mindanao, Philippines.  
-  I am currently learning and improving my skills in web development as I work toward becoming a web developer.
-  </p>
+<p>
+  <strong>Target Role:</strong><br>
+  Web Developer
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
+</td>
+<td width="65%">
 
-  <p>
-    <a href="mailto:e.lim.553550@umindanao.edu.ph">
-      <img src="https://img.shields.io/badge/Email-e.lim.553550%40umindanao.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-    </a>
-  </p>
+<h3>About this profile</h3>
 
-</div>
+<p>
+  This GitHub profile is not just a collection of repositories. It is my learning space where I document my progress in web development through projects, certifications, practice, and continuous improvement.
+</p>
 
-<hr>
+<p>
+  I am currently focused on understanding how web systems are built from user interfaces and backend logic to databases, project structure, and clean documentation.
+</p>
 
-<h3 align="left">🚀 What I’m Focusing On:</h3>
+<p>
+  <code>learning by building</code> · <code>improving through projects</code> · <code>growing into web development</code>
+</p>
 
-<ul>
-  <li>Developing my skills in frontend and backend web development</li>
-  <li>Building practical web-based systems using Laravel, PHP, MySQL, and JavaScript</li>
-  <li>Improving my GitHub workflow, documentation, and project organization</li>
-  <li>Learning how to create clean, responsive, and user-friendly interfaces</li>
-</ul>
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="mailto:e.lim.553550@umindanao.edu.ph">
+    <img src="https://img.shields.io/badge/Email-e.lim.553550%40umindanao.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
+
 
 <hr>
 
