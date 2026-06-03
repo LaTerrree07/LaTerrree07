@@ -1,10 +1,8 @@
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="35%">
 
 <h2>EARTH JUSTIN LIM</h2>
-
-<hr>
 
 <p>
   IT Student<br>
@@ -17,10 +15,8 @@
   Web Developer
 </p>
 
-  </tr>
-
-  <tr>
-    <td align="center">
+</td>
+<td width="65%">
 
 <h3>About this profile</h3>
 
@@ -33,13 +29,15 @@
 </p>
 
 <p>
-  <code>learning by building</code> · 
-  <code>improving through projects</code> · 
-  <code>growing into web development</code>
+  <code>learning by building</code> · <code>improving through projects</code> · <code>growing into web development</code>
 </p>
 
+</td>
   </tr>
 </table>
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LaTerrree07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
