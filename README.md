@@ -7,12 +7,6 @@
 <p>
   IT Student<br>
   University of Mindanao<br>
-  Philippines
-</p>
-
-<p>
-  <strong>Target Role:</strong><br>
-  Web Developer
 </p>
 
 </td>
@@ -21,15 +15,11 @@
 <h3>About this profile</h3>
 
 <p>
-  This GitHub profile is not just a collection of repositories. It is my learning space where I document my progress in web development through projects, certifications, practice, and continuous improvement.
+  This GitHub profile is not just a collection of repositories. It is my learning space where I document my progress in tech through projects, certifications, practice, and continuous improvement. I am currently figuring things out by exploring how different systems work, building diverse projects, and learning what goes into clean code and solid structure.
 </p>
 
 <p>
-  I am currently focused on understanding how web systems are built from user interfaces and backend logic to databases, project structure, and clean documentation.
-</p>
-
-<p>
-  <code>learning by building</code> · <code>improving through projects</code> · <code>growing into web development</code>
+  <code>learning by building</code> · <code>improving through projects</code> · <code>growing through exploration</code>
 </p>
 
 </td>
